@@ -1,8 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "Twitter Follower Blindfold",
-  "version": "1.0",
+  "name": "Twitter Follower Blocker",
+  "short_name": "TwtrFlwBlock",
+  "version": "1.1",
   "description": "Hides all Follower counts on Twitter.com",
   "icons": {
     "512": "img/logo-512.png"
