@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Twitter Follower Blindfold",
+  "version": "1.0",
+  "description": "Hides all Follower counts on Twitter.com",
+
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["content.js"],
+    "matches": ["https://twitter.com/*"]
+  }]
+
+}
