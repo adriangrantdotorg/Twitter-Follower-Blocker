@@ -4,7 +4,9 @@
   "name": "Twitter Follower Blindfold",
   "version": "1.0",
   "description": "Hides all Follower counts on Twitter.com",
-
+  "icons": {
+    "512": "img/logo-512.png"
+  },
   "content_scripts": [{
     "css": ["styles.css"],
     "js": ["content.js"],

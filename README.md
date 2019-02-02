@@ -8,3 +8,6 @@ Visit [Twitter](LICENSE.md), that's it!
 
 ## License
 MIT licensed. See [LICENSE](LICENSE.md) for detail.
+
+## Credits
+Icon designed by [strongicon](https://www.iconfinder.com/strokeicon).
