@@ -1,5 +1,5 @@
-# Twitter Follower Blindfold
-Twitter Follower Blindfold is a Chrome Extension for blocking Follower counts on Twitter.com.
+# Twitter Follower Blocker
+Twitter Follower Blocker is a Chrome Extension for blocking Follower counts on Twitter.com.
 ![screenshot](/img/Logo.jpg)
 
 ## How to Use
