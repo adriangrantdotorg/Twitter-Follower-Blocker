@@ -1,5 +1,5 @@
-# Twitter Follower Blocker
-Twitter Follower Blocker is a Chrome Extension for blocking Follower counts on Twitter.com. Helps avoid group think and social signaling while browsing the site. 
+# Hide Twitter Follower Amounts 
+A Chrome Extension that hides the amount of Followers a profile has on Twitter.com. Helps to avoid group think and social signaling while browsing the site. 
 
 ![screenshot](/img/Birdbox-Meme.jpg)
 
